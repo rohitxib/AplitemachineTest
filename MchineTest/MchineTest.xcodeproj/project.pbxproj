@@ -16,6 +16,7 @@
 		18CA378229421B79000DD0A5 /* MchineTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CA378129421B79000DD0A5 /* MchineTestTests.swift */; };
 		18CA378C29421B79000DD0A5 /* MchineTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CA378B29421B79000DD0A5 /* MchineTestUITests.swift */; };
 		18CA378E29421B79000DD0A5 /* MchineTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CA378D29421B79000DD0A5 /* MchineTestUITestsLaunchTests.swift */; };
+		18CA379B29421FDE000DD0A5 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CA379A29421FDE000DD0A5 /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		18CA378729421B79000DD0A5 /* MchineTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MchineTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18CA378B29421B79000DD0A5 /* MchineTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MchineTestUITests.swift; sourceTree = "<group>"; };
 		18CA378D29421B79000DD0A5 /* MchineTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MchineTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		18CA379A29421FDE000DD0A5 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				18CA377429421B78000DD0A5 /* Persistence.swift */,
 				18CA377629421B78000DD0A5 /* MchineTest.xcdatamodeld */,
 				18CA377129421B78000DD0A5 /* Preview Content */,
+				18CA379A29421FDE000DD0A5 /* File.swift */,
 			);
 			path = MchineTest;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18CA379B29421FDE000DD0A5 /* File.swift in Sources */,
 				18CA377529421B78000DD0A5 /* Persistence.swift in Sources */,
 				18CA376E29421B75000DD0A5 /* ContentView.swift in Sources */,
 				18CA376C29421B75000DD0A5 /* MchineTestApp.swift in Sources */,
